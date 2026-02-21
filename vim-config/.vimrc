@@ -5,14 +5,11 @@ filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 "
-plugin 'VundleVim/Vundle.vim'
-" Improvement plugin
+Plugin 'VundleVim/Vundle.vim' 
+
+"Improvement plugins
 Plugin 'nathanaelkane/vim-indent-guides'
-
-"Color scheme
-Plugin 'nanotech/jellybeans.vim' 
-
-
+Plugin 'nanotech/jellybeans.vim'
 
 " All of your Plugins must be added before the following line
 
