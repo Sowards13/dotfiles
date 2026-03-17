@@ -1,4 +1,4 @@
-#Homefiles 
+## Homefiles 
 
 ## Files included 
  - .Bash_aliases: File that contains shortcuts for navigating your directory and clearing your terminal 
