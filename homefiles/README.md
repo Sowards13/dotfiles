@@ -21,4 +21,4 @@ To navigate your directory, some of the aliases are:
 ["awesome" bash aliases](https://github.com/ctrlaltvikas/awesome-bash-alias?tab=readme-ov-file) 
 I used this link to decided on what aliases i wanted to use for my .bash_aliases file. 
 
-
+I used gemini to give me the outline of what the contents of the code for linking symbolically the .bash_aliases file that is located in your user's directory dotfiles to the home direstory.
